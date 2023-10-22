@@ -1,0 +1,74 @@
+Linux
+commands:
+-journal ctl
+-checksum    -md5sum    -sha1sum
+-vim, vi
+-rm
+-diff
+-sed
+-grep
+-git
+-mkdir
+-systemctl
+-docker[ps] , logs –tail, dockerfile, docker-compose
+-du[-hs]
+-wc
+-top
+-ip[addr]
+-dig
+-df
+-tail[-f]
+-echo
+-chmod
+-chown
+-netstat
+-scp
+-ssh
+
+MarkDown
+  
+
+10 finger typing
+
+
+Network+(low priority)
+
+
+Communication Protocol
+-Rest,     django rest framework
+-Soap
+-RPC
+
+
+
+postgresql
+pgadmin
+
+
+
+Libraries:
+request
+
+
+Protocol:
+-TCP&IP
+
+Methods:
+-post
+-get
+-delete
+-put
+-patch
+
+
+All Services:
+-Port
+-IP
+
+Ports:
+-dns
+-dhcp
+-stp
+-http
+-https
+
